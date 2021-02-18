@@ -20,7 +20,7 @@ print("")
 print("website:www.mronion420.000webhostapp.com")
 print("")
 print("")
-print("Git Hub:")
+print("Git Hub:www.github.com/mronion420")
 print("_______________________________________________")
 print(f" ")
 import requests as rq
