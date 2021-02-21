@@ -9,7 +9,7 @@ pkg install git
 
 pkg install python
 
-git clone https://github.com/ts22n/tsbomber
+git clone https://github.com/mronion420/tsbomber
 
 cd tsbomber
 
