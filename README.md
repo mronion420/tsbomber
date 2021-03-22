@@ -22,3 +22,6 @@ python ts.py
 
 +88 country code already given. start from 0
 
+This tool made only for prank with friends not for revenge.
+
+Thank you
